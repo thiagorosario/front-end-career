@@ -10,7 +10,7 @@ Requisitos do Front End Engineer Júnior
 * JavaScript (inserir um script em uma tela, utilizar libs, criar pequenas coisas)
 * Tooling (você vai precisar de algo como o [GruntJS](http://gruntjs.com/), [GulpJS](http://gulpjs.com/), [NPM Scripts](https://docs.npmjs.com/misc/scripts))
 * Responsive (aprenda a fazer um layout funcionar em multiplos dispositivos)
-* Git (e sabe que [Git](https://git-scm.com/) e [GitHub](http://github.com/) não são a mesma coisa)
+* Git (e saber que [Git](https://git-scm.com/) e [GitHub](http://github.com/) não são a mesma coisa)
 
 Dependendo de sua região, empresa onde for trabalhar, você precisa saber manusear algum software de edição de imagens (aka Photoshop). Para saber se realmente precisa, de uma boa pesquisada nas vagas locais.
 
